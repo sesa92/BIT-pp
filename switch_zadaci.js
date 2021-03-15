@@ -61,7 +61,7 @@ switch (day) {
 }
 
 
-// 3. Wrute a progran that fir a 1-7 number input (representing a day in a week) shows if that day is a 
+// 3. Write a program that for a 1-7 number input (representing a day in a week) shows if that day is a 
 // weekday or weekend. All other cases output a message explaning that input must be a number between 1 and 7.
 
 var day = 6;
@@ -134,6 +134,7 @@ switch (month) {
 
 // 5. Write a program that for a 1-12 number input (representing a month in a year) shows that a month's name.
 // All inputs different from 1-12 output a message explaning that input must be a number between 1 and 12.
+
 var month = 6;
 
 switch (month) {
@@ -192,7 +193,7 @@ switch (grade) {
 
 // 7. Write a program that takes as input city name and outputs the country where the city is. You may choose
 // which cities and countries you want to output yourself, however there has to be at least 5 countries and
-// amd 15 cities. Note that each country must have a different number of cities. Input different from the
+// and 15 cities. Note that each country must have a different number of cities. Input different from the
 // listed cities should output a message "Please choose a different city".
 
 var city = 'Madrid';
@@ -230,7 +231,7 @@ switch (city) {
 }
 
 // 8. Write a program that takes input two numbers and a string denoting the operation ("+","-","*","/") and
-// pirnts out the appropriate result. Watch out for division by zero!
+// prints out the appropriate result. Watch out for division by zero!
 
 
 var a = 10;
