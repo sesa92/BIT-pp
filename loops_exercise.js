@@ -58,12 +58,15 @@ var a = [
     [7, 0, 7, 27]
 ];
 
+var string = '';
+
 for (var i in a) {
-    console.log(i);
     for (var j in a[i]) {
-        console.log(a[i][j]);
+        string += a[i][j] + ',';
     }
 }
+
+console.log(string);
 
 
 // 6. Write a program that outputs the sum of squares of the first 20 numbers.
