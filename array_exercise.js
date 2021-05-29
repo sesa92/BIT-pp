@@ -20,6 +20,7 @@ console.log(nums[1]);
 console.log(nums[3]);
 console.log(nums[4]);
 
+
 // 4. Print all elements with indices divisible by 3 from the array
 
 var x = [5, 15, -5, 20, 12, 18, 14, 9];
